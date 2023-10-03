@@ -16,17 +16,17 @@ $("#right-part > a").click(function() {
     }
 });
 
-$("#order").click(function(){
-    location.replace("http://127.0.0.1:5500/orders.html#");
-});
+// $("#order").click(function(){
+//     location.replace("http://127.0.0.1:5500/orders.html#");
+// });
 
-$("#products").click(function(){
-    location.replace("http://127.0.0.1:5500/product.html");
-});
+// $("#products").click(function(){
+//     location.replace("http://127.0.0.1:5500/product.html");
+// });
 
-$("#users").click(function(){
-    location.replace("http://127.0.0.1:5500/users.html");
-});
+// $("#users").click(function(){
+//     location.replace("http://127.0.0.1:5500/users.html");
+// });
 
 $("#loGin").click(function(){
     location.replace("http://127.0.0.1:5500/index.html");
